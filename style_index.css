@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-image: url("1e12a183139d56d904ec334bd8e8c07b386d6a48.gif");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.title
+{
+	font-family:arial, serif;
+	font-size: 57px;
+	color:white;
+	text-transform: uppercase;
+	text-align:center;
+}
+h3
+{
+	font-family: times new roman, serif;
+	font-size: 50px;
+	color:white;
+}
+.link1 {
+	display: inline;
+	background: #ADD8E6;
+	margin-right: 60px;
+}
+.link2 {
+	display: inline;
+	background: #ADD8E6;
+
+
+}
